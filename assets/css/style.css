@@ -1,0 +1,26 @@
+body {
+    background-image: url('../images/cat-predict-future-magic-crystal-ball-cartoon-illustration-funny-53400414.jpg');
+    background-repeat: no-repeat;
+}
+
+.game {
+    float: right;
+    margin-top: 250px;
+    margin-right: 100px;
+    border: 5px dashed lightblue;
+    padding: 10px;
+}
+
+h1, p {
+    font-size: 150%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    color: teal;
+}
